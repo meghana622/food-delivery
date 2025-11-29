@@ -14,3 +14,10 @@
     gap: 30px;  
     row-gap: 50px;
 }
+
+@media (max-width:680px){
+    .food-display-list{
+        margin-left: 590px;
+        width: 200px;
+    }
+}
